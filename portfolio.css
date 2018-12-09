@@ -1,0 +1,44 @@
+header{
+    float:center;
+    color: black;
+    padding: 20px;
+    margin-bottom:20px;
+    background-color:white;
+    padding: 0px;
+
+
+}
+body{
+    background-color:gray;
+}
+#portfolio-header, #portfolio-nav{
+    display: inline-block;
+}
+#portfolio-header{
+    background-color: rgba(24, 141, 122, 0.979);
+    color: white;
+    padding: 15px;
+    margin: 0;
+    margin-left:12%;
+}
+#portfolio-nav{
+    margin-left: 52%;
+
+}
+#home-page{
+    border-right:2px solid lightgray;
+
+}
+#portfolio-page{
+    border-right: 2px solid lightgray;
+}
+a{
+    padding: 7px;
+    color:gray;
+}
+#footer{
+    background-color: blue;
+}
+@media (max-width:960px){
+
+}
